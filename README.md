@@ -76,12 +76,12 @@ Ensure you have the following installed:
 
 ```bash
 # Clone this repository
-git clone https://gitlab.com/cambrian_intelligence/tracking_cielo.git
+git clone https://github.com/cambrian-intelligence/aerial-object-detector-and-tracker
 ```
 
 ```bash
 # Go into the repository
-cd tracking_cielo
+cd aerial-object-detector-and-tracker
 ```
 
 ```bash
