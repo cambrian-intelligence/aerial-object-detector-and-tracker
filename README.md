@@ -230,7 +230,7 @@ This section provides a detailed overview of the parameters available for proces
 
 ## Contact
 
-Would you like to discuss with potential customizations of this software or related applications? 
+Would you like to discuss potential customizations of this software or related applications? 
 
 Get in touch with us at info AT cambrianintelligence.com
 
