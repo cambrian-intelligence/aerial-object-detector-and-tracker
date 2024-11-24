@@ -1,0 +1,11 @@
+fire
+matplotlib
+numpy
+opencv_python
+opencv_python_headless
+pandas
+sahi
+seaborn
+ultralytics
+tqdm
+ffmpeg-python
